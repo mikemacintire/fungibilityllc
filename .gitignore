@@ -1,8 +1,8 @@
 # Vercel CLI project linking
 .vercel/
 
-# Local Claude Code settings (machine-specific)
-.claude/settings.local.json
+# Local Claude Code state (machine-specific, not part of the site)
+.claude/
 
 # OS cruft
 .DS_Store

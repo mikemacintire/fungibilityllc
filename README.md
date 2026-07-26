@@ -1,6 +1,6 @@
 # fungibilityllc.com
 
-Company website for Fungibility LLC — a static, three-page site with no build step.
+Company website for Fungibility LLC. A static, three-page site with no build step.
 
 | File | Purpose |
 | --- | --- |
